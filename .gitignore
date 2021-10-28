@@ -1,9 +1,11 @@
 # Data
 data/
+images/
 
 # Other notebooks
 EditingNotebook.ipynb
 Preprocessor1.0
+NLPMediaReviewAnalysis-Copy1.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
