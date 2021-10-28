@@ -58,8 +58,6 @@ After text preprocessing and model selection, the resulting findings are:
 <- PDF version of Jupyter notebook
 ├── Presentation.pdf        
 <- PDF version of project presentation
-├── data                                
-<- Both sourced externally and generated from code
 └── images                              
 <- Both sourced externally and generated from code
 ```
